@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DeudoresApp</string>
+    <string name="title_list">Lista</string>
+    <string name="title_create">Crear</string>
+    <string name="title_read">Leer</string>
+    <string name="title_update">Actualizar</string>
+    <string name="title_delete">Borrar</string>
+    <string name="name_hint">Digite el nombre</string>
+    <string name="phone_hint">Digite el telefono</string>
+    <string name="amount_hint">Digite el valor de la deuda</string>
+    <string name="create_button">Crear</string>
+    <string name="nombre">Carlos Mario Lopez</string>
+    <string name="amount_example">120000</string>
+    <string name="Nombre_Usuario">Nombre de usuario</string>
+    <string name="Registro">Registrar</string>
+    <string name="Correo">Correo Electrónico</string>
+    <string name="Confirmacion">Contraseña(mín 6 caracteres)</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="forgetpass"><u>¿Olvidaste tu contraseña?</u></string>
+    <string name="Inicio_sesion">Inicio Sesión</string>
+    <string name="new_user">Se parte de nosotros  </string>
+    <string name="register"><u>Regístrate</u></string>
+    <string name="no_igua_contra">Las contraseñas no son iguales</string>
+    <string name="campo">Campo Obligatorio</string>
+    <string name="contra_6_Dig">La contraseña debe ser de mínimo 6 digitos</string>
+    <string name="Error_message">Debe digitar una contraseña</string>
+    <string name="error_email">Email no válido</string>
+    <string name="error_register">Su correo o contraseña son incorrectas</string>
+    <string name="Email_required">Debe digitar un correo</string>
+    <string name="incorrecta" >Su contraseña es incorrecta </string>
+    <string name="login">Login </string>
+    <string name="sign_up">Sign Up</string>
+
+</resources>
